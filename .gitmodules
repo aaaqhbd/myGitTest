@@ -1,0 +1,3 @@
+[submodule "thirdparty"]
+	path = thirdparty
+	url = https://git.oschina.net/gaofeifps/leg.git
